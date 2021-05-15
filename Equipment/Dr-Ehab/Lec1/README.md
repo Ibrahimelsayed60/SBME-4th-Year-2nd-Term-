@@ -15,12 +15,13 @@ Table of Contents                                                               
 <h2 id="A"> Why UltraSound Imaging? </h2>
 
 ***Course Motivation:***
-    
-    As “biomedical engineers”, it is important to understand the physics, design, and types of ultrasound imaging modalities as common diagnostic tools in healthcare facilities
+> As “biomedical engineers”, it is important to understand the physics, design, and types of ultrasound imaging modalities as common diagnostic tools in healthcare facilities
 
 <h2 id="B"> What UltraSound Imaging Can Do? (6 Modes) </h2>
 
 1. B-Mode (Brightness) - Real/Fixed Time
+   * Cross Sectional Images
+   * Constructed from: **Echoes** and **Scattering**
 2. M-Mode (Motion)
    * Pixel-wise Movement
    * Calculate Distance
@@ -72,6 +73,8 @@ Conventional                    |               Portable                 |      
 
 <h2 id="G"> Principles of UltraSound </h2>
 
+Each echo is displayed at a point in the image, which corresponds to the relative position of its origin within the body cross section, resulting in a scaled map of echoproducing features
+➢ The brightness of the image at each point is related to the strength or amplitude of the echo, giving rise to the term Bmode (brightness mode)
 
 <h2 id="H"> Notes </h2>
 
@@ -82,3 +85,7 @@ Conventional                    |               Portable                 |      
 * Resolution of UltraSound may be improved if frequency is increased (Proportional)
 * Usage of Gel: To make sure that there is no **Air** between **Transducer** and **Patient's Body**
 * UltraSound is mainly a **High Frequency Sound Wave**
+* Sound Wave Velocity:
+  * Air: 340 m/s
+  * Water: 1500 - 1540 m/s
+* Echoes: Relative Position of Organ
