@@ -75,8 +75,12 @@ Conventional | Portable | Handheld |
 
 <h2 id="G"> Principles of UltraSound </h2>
 
-Each echo is displayed at a point in the image, which corresponds to the relative position of its origin within the body cross section, resulting in a scaled map of echoproducing features
-➢ The brightness of the image at each point is related to the strength or amplitude of the echo, giving rise to the term Bmode (brightness mode)
+* Each echo is displayed at a point in the image, which corresponds to the relative position of its origin within the body cross section, resulting in a scaled map of echoproducing features
+* Brightness of image at each point is related to strength or amplitude of the echo, giving rise to term B-Mode
+
+Liver UltraSound Image |
+:---------------------:|
+![UltraSound of Liver](https://github.com/mostafa20223/SBME-4th-Year-2nd-Term-/blob/main/Equipment/Dr-Ehab/imgs/Lec1/Liver.png) |
 
 <h2 id="H"> Physics of UltraSound </h2>
 
@@ -85,7 +89,7 @@ Each echo is displayed at a point in the image, which corresponds to the relativ
 
 Propagation of UltraSound Waves | Comments |
 :------------------------------:|:--------:|
-![Propagation of UltraSound](https://github.com/mostafa20223/SBME-4th-Year-2nd-Term-/blob/main/Equipment/Dr-Ehab/imgs/Lec1/Propagation.png) | Particles of medium **oscillate** *backwards* and *forwards* along the **direction of propagation** |
+![Propagation of UltraSound](https://github.com/mostafa20223/SBME-4th-Year-2nd-Term-/blob/main/Equipment/Dr-Ehab/imgs/Lec1/Propagation.PNG) | Particles of medium **oscillate** *backwards* and *forwards* along the **direction of propagation** |
 
 <h3 id="J"> Definitions of Wave </h3>
 
@@ -93,10 +97,12 @@ Propagation of UltraSound Waves | Comments |
    <th> Frequency (f) </th>
    <th> Wavelength (<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\large&space;\lambda" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\large&space;\lambda" title="\large \lambda" /></a>) </th>
    <th> Speed/Velocity (c) </th>
+   <th> Phase (θ) </th>
    <tr>
       <td rowspan = 2> Number of oscillations or wave crests passing a stationary observer per second and is determined by the source of the sound wave (1 Hz = 1 cycle per second) </td>
       <td rowspan = 2> Distance between consecutive wave crests or other similar points on the wave </td>
       <td> Determined by medium in which it is travelling </td>
+      <td rowspan = 2> Position within such a cycle of rotation and is measured in degrees </td>
    </tr>
    <tr>
       <td> Examples are the speed of sound in air (330 <a href="https://www.codecogs.com/eqnedit.php?latex=m&space;s^{-1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?m&space;s^{-1}" title="m s^{-1}" /></a>) and water (1480 <a href="https://www.codecogs.com/eqnedit.php?latex=m&space;s^{-1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?m&space;s^{-1}" title="m s^{-1}" /></a>) </td>
@@ -109,8 +115,19 @@ Propagation of UltraSound Waves | Comments |
 * <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\large&space;c&space;=&space;\lambda&space;f" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\large&space;c&space;=&space;\lambda&space;f" title="\large c = \lambda f" /></a>
 * <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\large&space;c=\sqrt\frac{k}{\rho}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\large&space;c=\sqrt\frac{k}{\rho}" title="\large c=\sqrt\frac{k}{\rho}" /></a>
 
+***Where:***
+> k: stiffness
+> 
+> <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\large&space;\rho" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\large&space;\rho" title="\large \rho" /></a>: density
+
 <h3 id="L"> Acoustic Pressure </h3>
 
+For Longitudinal Waves: the acoustic pressure can be related to the underlying particle velocity (u) as follows: <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\large&space;p=uZ" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\large&space;p=uZ" title="\large p=uZ" /></a>
+
+***Where:***
+> Z: Characteristic Impedance
+> 
+> u: Particle Velocity
 
 <h2 id="M"> Notes </h2>
 
@@ -121,16 +138,19 @@ Propagation of UltraSound Waves | Comments |
 * Resolution of UltraSound may be improved if frequency is increased (Proportional)
 * Usage of Gel: To make sure that there is no **Air** between **Transducer** and **Patient's Body**
 * UltraSound is mainly a **High Frequency Sound Wave**
-* Sound Wave Velocity:
+* **Sound Wave Velocity:**
   * Air: 340 m/s
   * Water: 1500 - 1540 m/s
-* Echoes: Relative Position of Organ
+* **Echoes:** Relative Position of Organ
 * Frequency Range (Medical Imaging): **2 - 20 MHz**
 * UltraSound may be used in **Therapeutic** (e.g. Lithotripsy)
-* Wave is descriped by:
+* **Wave is descriped by:**
   * Phase
   * Frequency
   * Velocity
 * Mechanical Waves are generated by: **Piezo-electric Materials**
+* Pattern of particle displacement with time can be described by a **sine wave**
+* **Excess Pressure (p):** Difference between actual pressure and normal rest pressure in medium (measured in pascals (Pa))
 * Speed of Sound in different human tissues <br>
-[Sound Speed](https://github.com/mostafa20223/SBME-4th-Year-2nd-Term-/blob/main/Equipment/Dr-Ehab/imgs/Lec1/Speed.png)
+
+![Sound Speed](https://github.com/mostafa20223/SBME-4th-Year-2nd-Term-/blob/main/Equipment/Dr-Ehab/imgs/Lec1/Speed.PNG)
