@@ -10,7 +10,9 @@
 * <a href="#G"> Principles of UltraSound </a>
 * <a href="#H"> Physics of UltraSound </a>
   * <a href="#J"> Definitions of Wave </a>
-* <a href="#"> Notes </a>
+  * <a href="#K"> Notes </a>
+  * <a href="#L"> Acoustic Pressure </a>
+* <a href="#M"> Notes </a>
 
 <h2 id="A"> Why UltraSound Imaging? </h2>
 
@@ -60,15 +62,15 @@ Conventional | Portable | Handheld |
 <h2 id="F"> Basic Idea </h2>
 
 <table>
-    <th> Concept Image</th>
-    <th> Concept Illustration</th>
-    <tr>
-        <td rowspan=2> <img src="https://github.com/mostafa20223/SBME-4th-Year-2nd-Term-/blob/main/Equipment/Dr-Ehab/imgs/Lec1/Basic.png" alt="Basic Idea of UltraSound"/> </td>
-        <td> 1. Send waves into body which are reflected at the interfaces between tissue </td>
-    </tr>
-    <tr>
-        <td> 2. Return time of the waves tells us of the depth of the reflecting surface </td>
-    </tr>
+   <th> Concept Image</th>
+   <th> Concept Illustration</th>
+   <tr>
+      <td rowspan=2> <img src="https://github.com/mostafa20223/SBME-4th-Year-2nd-Term-/blob/main/Equipment/Dr-Ehab/imgs/Lec1/Basic.png" alt="Basic Idea of UltraSound"/> </td>
+      <td> 1. Send waves into body which are reflected at the interfaces between tissue </td>
+   </tr>
+   <tr>
+      <td> 2. Return time of the waves tells us of the depth of the reflecting surface </td>
+   </tr>
 </table>
 
 <h2 id="G"> Principles of UltraSound </h2>
@@ -87,15 +89,30 @@ Propagation of UltraSound Waves | Comments |
 
 <h3 id="J"> Definitions of Wave </h3>
 
-> Frequency (f): Number of oscillations or wave crests passing a stationary observer per second and is determined by the source of the sound wave (1 Hz = 1 cycle per second)
+<table>
+   <th> Frequency (f) </th>
+   <th> Wavelength (<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\large&space;\lambda" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\large&space;\lambda" title="\large \lambda" /></a>) </th>
+   <th> Speed/Velocity (c) </th>
+   <tr>
+      <td rowspan = 2> Number of oscillations or wave crests passing a stationary observer per second and is determined by the source of the sound wave (1 Hz = 1 cycle per second) </td>
+      <td rowspan = 2> Distance between consecutive wave crests or other similar points on the wave </td>
+      <td> Determined by medium in which it is travelling </td>
+   </tr>
+   <tr>
+      <td> Examples are the speed of sound in air (330 <a href="https://www.codecogs.com/eqnedit.php?latex=m&space;s^{-1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?m&space;s^{-1}" title="m s^{-1}" /></a>) and water (1480 <a href="https://www.codecogs.com/eqnedit.php?latex=m&space;s^{-1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?m&space;s^{-1}" title="m s^{-1}" /></a>) </td>
+   </tr>
+</table>
 
-> Wavelength (<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\large&space;\lambda" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\large&space;\lambda" title="\large \lambda" /></a>): Distance between consecutive wave crests or other similar points on the wave
+<h3 id="K"> Notes </h3>
 
-> Speed/Velocity (c): Determined by medium in which it is travelling
->> Examples are the speed of sound in air (330 <a href="https://www.codecogs.com/eqnedit.php?latex=m&space;s^{-1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?m&space;s^{-1}" title="m s^{-1}" /></a>) and water (1480 <a href="https://www.codecogs.com/eqnedit.php?latex=m&space;s^{-1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?m&space;s^{-1}" title="m s^{-1}" /></a>)
+* Material properties which determine the speed of sound are density (<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\large&space;\rho" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\large&space;\rho" title="\large \rho" /></a>) and stiffness (<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\large&space;k" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\large&space;k" title="\large k" /></a>)
+* <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\large&space;c&space;=&space;\lambda&space;f" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\large&space;c&space;=&space;\lambda&space;f" title="\large c = \lambda f" /></a>
+* <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\large&space;c=\sqrt\frac{k}{\rho}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\large&space;c=\sqrt\frac{k}{\rho}" title="\large c=\sqrt\frac{k}{\rho}" /></a>
+
+<h3 id="L"> Acoustic Pressure </h3>
 
 
-<h2 id=""> Notes </h2>
+<h2 id="M"> Notes </h2>
 
 * UltraSound Machines have different battery attachment
 * UltraSound Workflow:
@@ -114,3 +131,6 @@ Propagation of UltraSound Waves | Comments |
   * Phase
   * Frequency
   * Velocity
+* Mechanical Waves are generated by: **Piezo-electric Materials**
+* Speed of Sound in different human tissues <br>
+[Sound Speed](https://github.com/mostafa20223/SBME-4th-Year-2nd-Term-/blob/main/Equipment/Dr-Ehab/imgs/Lec1/Speed.png)
