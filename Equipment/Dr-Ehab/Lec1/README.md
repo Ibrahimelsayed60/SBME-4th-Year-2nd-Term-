@@ -9,7 +9,7 @@
 * <a href="#F"> Basic Idea </a>
 * <a href="#G"> Principles of UltraSound </a>
 * <a href="#H"> Physics of UltraSound </a>
-  * <a href="#"> Definitions </a>
+  * <a href="#J"> Definitions of Wave </a>
 * <a href="#"> Notes </a>
 
 <h2 id="A"> Why UltraSound Imaging? </h2>
@@ -85,11 +85,14 @@ Propagation of UltraSound Waves | Comments |
 :------------------------------:|:--------:|
 ![Propagation of UltraSound](https://github.com/mostafa20223/SBME-4th-Year-2nd-Term-/blob/main/Equipment/Dr-Ehab/imgs/Lec1/Propagation.png) | Particles of medium **oscillate** *backwards* and *forwards* along the **direction of propagation** |
 
-<h3 id=""> Definitions </h3>
+<h3 id="J"> Definitions of Wave </h3>
 
-➢ Frequency (f) of the wave is the number of oscillations or wave crests passing a stationary observer per second and is determined by the source of the sound wave. (1 Hz = 1 cycle per second)
-➢ Wavelength (λ) is the distance between consecutive wave crests or other similar points on the wave
-➢ Speed/Velocity (c) is determined by the medium in which it is travelling. Examples are the speed of sound in air (330 <a href="https://www.codecogs.com/eqnedit.php?latex=m&space;s^{-1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?m&space;s^{-1}" title="m s^{-1}" /></a>) and water (1480 <a href="https://www.codecogs.com/eqnedit.php?latex=m&space;s^{-1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?m&space;s^{-1}" title="m s^{-1}" /></a>)
+> Frequency (f): Number of oscillations or wave crests passing a stationary observer per second and is determined by the source of the sound wave (1 Hz = 1 cycle per second)
+
+> Wavelength (<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\large&space;\lambda" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\large&space;\lambda" title="\large \lambda" /></a>): Distance between consecutive wave crests or other similar points on the wave
+
+> Speed/Velocity (c): Determined by medium in which it is travelling
+>> Examples are the speed of sound in air (330 <a href="https://www.codecogs.com/eqnedit.php?latex=m&space;s^{-1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?m&space;s^{-1}" title="m s^{-1}" /></a>) and water (1480 <a href="https://www.codecogs.com/eqnedit.php?latex=m&space;s^{-1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?m&space;s^{-1}" title="m s^{-1}" /></a>)
 
 
 <h2 id=""> Notes </h2>
