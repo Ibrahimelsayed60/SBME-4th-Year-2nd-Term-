@@ -1,16 +1,16 @@
 # Lecture #1 - Introduction to UltraSound (US)
 
 ## Layout
-Table of Contents                                                                 |
-:--------------------------------------------------------------------------------:|
-<a href="#A"> Why UltraSound Imaging? </a>                                        |
-<a href="#B"> What UltraSound Imaging Can Do? (6 Modes) </a>                      |
-<a href="#C"> UltraSound Machine </a>                                             |
-<a href="#D"> Role of UltraSound in Medical Imaging (Unique Characteristics) </a> |
-<a href="#E"> Drawbacks of UltraSound Imaging </a>                                |
-<a href="#F"> Basic Idea </a>                                                     |
-<a href="#G"> Principles of UltraSound </a>                                       |
-<a href="#H"> Notes </a>                                                          |
+* <a href="#A"> Why UltraSound Imaging? </a>
+* <a href="#B"> What UltraSound Imaging Can Do? (6 Modes) </a>
+* <a href="#C"> UltraSound Machine </a>
+* <a href="#D"> Role of UltraSound in Medical Imaging (Unique Characteristics) </a>
+* <a href="#E"> Drawbacks of UltraSound Imaging </a>
+* <a href="#F"> Basic Idea </a>
+* <a href="#G"> Principles of UltraSound </a>
+* <a href="#H"> Physics of UltraSound </a>
+  * <a href="#"> Definitions </a>
+* <a href="#"> Notes </a>
 
 <h2 id="A"> Why UltraSound Imaging? </h2>
 
@@ -38,9 +38,9 @@ Table of Contents                                                               
 
 <h2 id="C"> UltraSound Machine </h2>
 
-Conventional                    |               Portable                 |           Handheld        |
-:------------------------------:|:--------------------------------------:|:-------------------------:|
-![Conventional](https://github.com/mostafa20223/SBME-4th-Year-2nd-Term-/blob/main/Equipment/Dr-Ehab/imgs/Lec1/Conventional.png)     | ![Portable](https://github.com/mostafa20223/SBME-4th-Year-2nd-Term-/blob/main/Equipment/Dr-Ehab/imgs/Lec1/Portable.png)                      | ![Handheld](https://github.com/mostafa20223/SBME-4th-Year-2nd-Term-/blob/main/Equipment/Dr-Ehab/imgs/Lec1/Handheld.png)         |
+Conventional | Portable | Handheld |
+:-----------:|:--------:|:--------:|
+![Conventional](https://github.com/mostafa20223/SBME-4th-Year-2nd-Term-/blob/main/Equipment/Dr-Ehab/imgs/Lec1/Conventional.png) | ![Portable](https://github.com/mostafa20223/SBME-4th-Year-2nd-Term-/blob/main/Equipment/Dr-Ehab/imgs/Lec1/Portable.png) | ![Handheld](https://github.com/mostafa20223/SBME-4th-Year-2nd-Term-/blob/main/Equipment/Dr-Ehab/imgs/Lec1/Handheld.png) |
 
 <h2 id="D"> Role of UltraSound in Medical Imaging (Unique Characteristics) </h2>
 
@@ -55,7 +55,7 @@ Conventional                    |               Portable                 |      
 * **Limited Window Only** (e.g. Heart and Neonatal Brain)
 * Depends on **Operator Skill**
 * **Patients Dependency** (e.g. Obese Patients)
-* Needs **Medium** for Propagation
+* Needs **Medium** for Propagation through
 
 <h2 id="F"> Basic Idea </h2>
 
@@ -76,7 +76,24 @@ Conventional                    |               Portable                 |      
 Each echo is displayed at a point in the image, which corresponds to the relative position of its origin within the body cross section, resulting in a scaled map of echoproducing features
 ➢ The brightness of the image at each point is related to the strength or amplitude of the echo, giving rise to the term Bmode (brightness mode)
 
-<h2 id="H"> Notes </h2>
+<h2 id="H"> Physics of UltraSound </h2>
+
+* **Mechanical longitudinal Waves**
+* "UltraSound" refers to frequencies **greater** than **20 kHz**
+
+Propagation of UltraSound Waves | Comments |
+:------------------------------:|:--------:|
+![Propagation of UltraSound](https://github.com/mostafa20223/SBME-4th-Year-2nd-Term-/blob/main/Equipment/Dr-Ehab/imgs/Lec1/Propagation.png) | Particles of medium **oscillate** *backwards* and *forwards* along the **direction of propagation** |
+
+<h3 id=""> Definitions </h3>
+
+➢The frequency (f) of the wave is the number of oscillations or wave crests passing a stationary observer per second and is determined by the source of the sound wave. (1 Hz = 1 cycle per second)
+➢The wavelength (λ) is the distance between consecutive wave crests or other similar points on the wave
+➢ The speed/velocity (c) is determined by the medium in which it is travelling. Examples are the speed of sound in air (330 $m s^{-1}$) and water (1480 $m s^{-1}$)
+
+SE = $\frac{\sigma}{\sqrt{n}}$
+
+<h2 id=""> Notes </h2>
 
 * UltraSound Machines have different battery attachment
 * UltraSound Workflow:
@@ -89,3 +106,9 @@ Each echo is displayed at a point in the image, which corresponds to the relativ
   * Air: 340 m/s
   * Water: 1500 - 1540 m/s
 * Echoes: Relative Position of Organ
+* Frequency Range (Medical Imaging): **2 - 20 MHz**
+* UltraSound may be used in **Therapeutic** (e.g. Lithotripsy)
+* Wave is descriped by:
+  * Phase
+  * Frequency
+  * Velocity
