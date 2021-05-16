@@ -91,7 +91,7 @@ Propagation of UltraSound Waves | Comments |
 ➢The wavelength (λ) is the distance between consecutive wave crests or other similar points on the wave
 ➢ The speed/velocity (c) is determined by the medium in which it is travelling. Examples are the speed of sound in air (330 $m s^{-1}$) and water (1480 $m s^{-1}$)
 
-SE = $\frac{\sigma}{\sqrt{n}}$
+![Test](https://latex.codecogs.com/gif.latex?m%20s%5E%7B-1%7D)
 
 <h2 id=""> Notes </h2>
 
