@@ -87,11 +87,10 @@ Propagation of UltraSound Waves | Comments |
 
 <h3 id=""> Definitions </h3>
 
-➢The frequency (f) of the wave is the number of oscillations or wave crests passing a stationary observer per second and is determined by the source of the sound wave. (1 Hz = 1 cycle per second)
-➢The wavelength (λ) is the distance between consecutive wave crests or other similar points on the wave
-➢ The speed/velocity (c) is determined by the medium in which it is travelling. Examples are the speed of sound in air (330 $m s^{-1}$) and water (1480 $m s^{-1}$)
+➢ Frequency (f) of the wave is the number of oscillations or wave crests passing a stationary observer per second and is determined by the source of the sound wave. (1 Hz = 1 cycle per second)
+➢ Wavelength (λ) is the distance between consecutive wave crests or other similar points on the wave
+➢ Speed/Velocity (c) is determined by the medium in which it is travelling. Examples are the speed of sound in air (330 <a href="https://www.codecogs.com/eqnedit.php?latex=m&space;s^{-1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?m&space;s^{-1}" title="m s^{-1}" /></a>) and water (1480 <a href="https://www.codecogs.com/eqnedit.php?latex=m&space;s^{-1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?m&space;s^{-1}" title="m s^{-1}" /></a>)
 
-![Test](https://latex.codecogs.com/gif.latex?m%20s%5E%7B-1%7D)
 
 <h2 id=""> Notes </h2>
 
